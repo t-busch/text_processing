@@ -1,0 +1,1 @@
+call python word_replacement.py

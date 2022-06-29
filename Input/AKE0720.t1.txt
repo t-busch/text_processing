@@ -1,0 +1,36 @@
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>t1</title>
+			<author>AKE0720</author>
+			<name>outline</name>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>KLS</publisher>
+			<date>20211207</date>
+		</publicationStmt>
+		<seriesStmt>
+			<title>Q2</title>
+		</seriesStmt>
+		<notesStmt>
+			<note>time="225min"</note>
+			<note>#tasks="4"</note>
+		</notesStmt>
+		<sourceStmt>
+			<p>LK1</p>
+		</sourceStmt>
+	</fileDesc>
+</teiHeader>
+<text>
+	<body>
+		<p>The article <ref target="KLSQ2LK1_1" type="title">We are entering an era of pandemics - it will end only when we protect the rainforest</ref> by <ref target="KLSQ2LK1_1" type="author">Peter Daszak</ref> published <date>28. July 2020</date> on the website <name type="misc">The Guardian</name> is about the arise, spread and prevention of pandemics. The text can be divided into 3 parts, the arise <ref target="KLSQ2LK1_1" type="line">(l. 7-26)</ref>, the spread <ref target="KLSQ2LK1_1" type="line">(l. 27-35)</ref> and the prevention <ref target="KLSQ2LK1_1" type="line">(l. 36-56)</ref>.</p>
+		<p>The author states, that pandemics can arise very easily for example by eating or being near wildlife.</p>
+		<p>The arise is most likely to happen in so called <quote>disease hotspots</quote> like edges of forests with a variety of wildlife which carry viruses.</p>
+		<p>Due to globalization, which changed a lot of wildlife habitat into human agriculture makes humans much more likely to encounter a disease and spread it.</p>
+		<p>The spreading also happends in a much faster pace since globalization enables us to travel around the world and communicate with everyone, which makes the virus travel around the world as well.</p>
+		<p>The author describes out current methods of preventing pandemics as waiting for outbreaks to start and then creating vaccines or drugs to stop them which is inefficient since the virus spreads until a vaccine is created.</p>
+		<p>He suggests that we stop the <choice><orig>arrise</orig><reg>arise</reg></choice> of a pandemic from the start which means protecting wildlife and nature and therefore ourselves.</p>
+		<p>He says that consumption needs to be reduced and to stop deforestation and wildlife exploitation.</p>
+		<p>As well as protecting risk species, stop illegal wildlife trades and put pressure on industries that don't follow those rules.</p>
+	</body>
+</text>

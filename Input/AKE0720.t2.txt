@@ -1,0 +1,43 @@
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>t2</title>
+			<author>AKE0720</author>
+			<name>analyze</name>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>KLS</publisher>
+			<date>20211207</date>
+		</publicationStmt>
+		<seriesStmt>
+			<title>Q2</title>
+		</seriesStmt>
+		<notesStmt>
+			<note>time="225min"</note>
+			<note>#tasks="4"</note>
+		</notesStmt>
+		<sourceStmt>
+			<p>LK1</p>
+		</sourceStmt>
+	</fileDesc>
+</teiHeader>
+<text>
+	<body>
+		<p>The author tries to convince his readers by his line of argument and language. He starts <choice><orig>of</orig><reg>off</reg></choice> with the example of the Ebola outbreak <ref target="KLSQ2LK1_1" type="line">(l. 7-10)</ref> to underline that something small an harmless like playing near bats can lead to a virus outbreak. This is also supported by the following examples of the HIV <ref target="KLSQ2LK1_1" type="line">(l. 12-14)</ref> outbreak, or Covid-19 outbreak <ref target="KLSQ2LK1_1" type="line">l. 12-14)</ref> which also <choice><orig>happend</orig><reg>happened</reg></choice> due to encountering or hunting wildlife. This makes the text relatable since Covid-19 is something we are all experiencing at the moment. He then states that <quote>We're entering a new pandemic era</quote> <ref target="KLSQ2LK1_1" type="line">(l. 19)</ref> due to globalization which gives the reader a sense of fear or needing to be prepared and informed for what is <choice><orig>comming</orig><reg>coming</reg></choice>. In the following he illustrates that we know much more about the animals living in disease hotspots than about the viruses they carry <ref target="KLSQ2LK1_1" type="line">(l. 20-23)</ref>. This is backed up by statistics of viruses in birds and mammals which are the start for most pandemics compared to how much we know about them <ref target="KLSQ2LK1_1" type="line">(l. 23-26)</ref>. It shows that we know very little about the viruses, we just know that they carry them.</p>
+		<p>The use of statistics makes the author seem credible and informed. Moreover he relates the faster getting pace of the spread with globalization.</p>
+		<p>He names an example of viruses before which would only reach family members, perhaps a different group <ref target="KLSQ2LK1_1" type="line">(l. 27-30)</ref>. But now, due to globalization and therefore globalised connection, travel and the change from wildlife habitat into agriculture allows diseases to arise and spread faster and easier.</p>
+		<p>Here he uses the example of <name type="misc">Ziku</name>, <name type="misc">Ebola</name>, <name type="misc">Nipah</name> and of course Covid-19 which spread from China across the world <ref target="KLSQ2LK1_1" type="line">(l. 32-35)</ref>.</p>
+		<p>By this the reader can relate to the text better, due to Covid-19 and how fast it spread.</p>
+		<p>This relatability can also be seen when he talks about the prevention of disease. He argues that one knows that waiting for an outbreak of a disease and then creating vaccines is not efficient, like we have expeirenced it ourselves with Covid-19 <ref target="KLSQ2LK1_1" type="line">(l. 36-39)</ref>. Moreover, this is underlined by the example of the <name type="misc">H1N1</name> pandemic in <date>2009</date> where 25% of our planets population was infected until enough doses of the vaccine were created <ref target="KLSQ2LK1_1" type="line">(l. 40-41)</ref>. This makes him seem more credible since he illustrates his argument with an example, for making it easier to visualize for the reader.</p>
+		<p>For the prevention of pandemics he suggests that we start by protecting wildlife and nature, since that is where the pandemics start <ref target="KLSQ2LK1_1" type="line">(l. 42)</ref>. This should be done by stopping over-consumption and therefore deforestation and wildlife exploitation <ref target="KLSQ2LK1_1" type="line">(l. 44)</ref>. Risk species are to be protected and illegal wildlife trades should be stopped. Industries that don't follow those rules should be put under pressure <ref target="KLSQ2LK1_1" type="line">(l. 42-47)</ref>. The effect that this can make is underlined by the example of campaigns against palm oil led by consumers <ref target="KLSQ2LK1_1" type="line">(l. 48)</ref>. This shows the reader that something can be changed and that they can be a part of it, which therefore creates hope.</p>
+		<p>He concludes that our economy after the pandemic should be <choice><orig>rebuild</orig><reg>rebuilt</reg></choice>, creating the opportunity to change the way we treat our environment and help prevent diseases <ref target="KLSQ2LK1_1" type="line">(l. 50-54)</ref>. He says it's essential to accept that human activity has put us into this situation to start and change something <ref target="KLSQ2LK1_1" type="line">(l. 55, 56)</ref>.</p>
+		<p>This creates hope for the reader that we can change the situation we are facing but also makes them think about what they might do wrong or what they can change individually.</p>
+		<p>Generally, one can see that the <choice><orig>authors</orig><reg>author's</reg></choice> line of argument is clear and structured. The text can be divided into three parts about pandemics. He seems very credible and informed since he uses several examples and statistic to prove his arguments.</p>
+		<p>Examples that we can all relate to makes the text and information more accessible for the reader.</p>
+		<p>Not only does he use his line of arguments to convince the reader but also certain language. He makes use of metaphors to show how easy pandemics can occur and spread <ref target="KLSQ2LK1_1" type="line">(l. 10, 20, 36)</ref>. This better illustrates his argument to the reader. In addition to that he makes use of an enumeration with a climax to show how devastating the consequences of a pandemic can be <ref target="KLSQ2LK1_1" type="line">(l. 39)</ref>.</p>
+		<p>He uses some technical words such as <quote>Anthropecene</quote> <ref target="KLSQ2LK1_1" type="line">(l. 29)</ref> which makes him seem informed but the article in general is easy to read and understand, which makes it accessible for everyone.</p>
+		<p>The <choice><orig>acces</orig><reg>access</reg></choice> for everyone is also shown in the inclusive language he uses such as <quote>we</quote> <ref target="KLSQ2LK1_1" type="line">(l. 19, 23)</ref>, <quote>you</quote> <ref target="KLSQ2LK1_1" type="line">(l. 35)</ref>, <quote>our</quote> <ref target="KLSQ2LK1_1" type="line">(l. 35)</ref>.</p>
+		<p>By this the reader is directly <choice><orig>adressed</orig><reg>addressed</reg></choice> and feels included. Furthermore it is also mostly used when talking about going through this crisis together or trying to prevent it together. Words like <quote>they</quote> <ref target="KLSQ2LK1_1" type="line">(l. 33)</ref> or <quote>human activity</quote> <ref target="KLSQ2LK1_1" type="line">(l. 55)</ref> are used to show the reader that the author doesn't put the blame on anyone and rather tries to collectively change something.</p>
+		<p>All in all, one can see that the author convinces the reader by backing up his arguments with the relatable and understandable examples and statistics as well as using inclusive and technical language. This makes the reader understand his arguments better while also feeling directly <choice><orig>adressed</orig><reg>addressed</reg></choice> and feeling hopeful in making change.</p>
+	</body>
+</text>
